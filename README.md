@@ -156,13 +156,7 @@ fun_fact: "I have migrated more VMs than most people have had hot meals"
 
 ## GitHub Activity
 
-<div align="center">
 
-<!-- GitHub Stats - using multiple providers for reliability -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsakilesh&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E&bg_color=0D1117&cache_seconds=1800" onerror="this.style.display='none'"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsakilesh&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=8B949E&bg_color=0D1117&cache_seconds=1800"/>
-
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=jsakilesh&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0D1117" />
