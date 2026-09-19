@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Hi!+I'm+Akilesh+J+S;10%2B+Years+VMware+%7C+vSphere+Expert;CKA+%7C+CKAD+%7C+CKS+Certified;Infrastructure+as+Code+with+Terraform;GitOps+%7C+CI%2FCD+%7C+Platform+Engineering;Automate+Everything.+Break+Things+Safely." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Senior+DevOps+%26+Platform+Engineer;Kubernetes+%7C+CKA+%7C+CKAD+%7C+CKS;Infrastructure+as+Code+%7C+Terraform+%7C+Ansible;GitOps+%7C+Flux+%7C+ArgoCD;Automate+Everything.+Break+Things+Safely." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -31,22 +31,18 @@
 name: Akilesh J S
 role: Senior DevOps / Platform Engineer
 location: India
-experience: 10+ years
 
-specialisations:
-  - VMware vSphere / ESXi / vCenter / vSAN / NSX
-  - Kubernetes (CKA, CKAD, CKS Certified)
-  - Infrastructure as Code (Terraform + Ansible)
-  - CI/CD Pipelines (GitHub Actions, GitLab CI)
-  - GitOps (Flux v2, ArgoCD)
-  - Observability (Prometheus, Grafana, Loki, Alertmanager)
-  - Security Hardening (OPA Gatekeeper, Trivy, Vault)
+focus:
+  - Kubernetes platform engineering (CKA, CKAD, CKS)
+  - Infrastructure as Code — Terraform + Ansible
+  - CI/CD & GitOps — GitHub Actions, Flux v2, ArgoCD
+  - Observability — Prometheus, Grafana, Loki, Alertmanager
+  - Security — OPA Gatekeeper, Trivy, Falco, Vault
+  - On-prem & hybrid infrastructure (VMware vSphere background)
 
 currently_building:
-  - Cloud-Native DevOps Homelab
-  - K8s Platform with full GitOps + Observability stack
-
-fun_fact: "I have migrated more VMs than most people have had hot meals"
+  - Cloud-native DevOps homelab
+  - K8s platform with full GitOps + observability stack
 ```
 
 ---
@@ -65,12 +61,8 @@ fun_fact: "I have migrated more VMs than most people have had hot meals"
         <sub><b>Linux Foundation</b></sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/CKS-Kubernetes_Security-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/CKS-Kubernetes_Security_Specialist-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/>
         <sub><b>Linux Foundation</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/VMware-vSphere_Expert_10%2B_Years-607078?style=for-the-badge&logo=vmware&logoColor=white"/><br/>
-        <sub><b>VMware</b></sub>
       </td>
     </tr>
   </table>
@@ -81,12 +73,6 @@ fun_fact: "I have migrated more VMs than most people have had hot meals"
 ## Tech Arsenal
 
 <div align="center">
-
-### Infrastructure & Virtualisation
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![vSphere](https://img.shields.io/badge/vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![vSAN](https://img.shields.io/badge/vSAN-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![NSX](https://img.shields.io/badge/NSX-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ### Containers & Orchestration
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -100,6 +86,7 @@ fun_fact: "I have migrated more VMs than most people have had hot meals"
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Flux](https://img.shields.io/badge/Flux_CD-5468FF?style=for-the-badge&logo=flux&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware_vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -138,25 +125,17 @@ fun_fact: "I have migrated more VMs than most people have had hot meals"
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [DevOps Homelab](https://github.com/jsakilesh/devops-homelab) | Production-grade homelab: VMware to K8s, GitOps, full Observability stack | `Terraform` `Ansible` `Helm` `Flux` `Prometheus` |
-| [K8s Security Hardening](https://github.com/jsakilesh/k8s-security-hardening) | CKS-grade security: RBAC, OPA Gatekeeper, Falco, NetworkPolicy, kube-bench | `OPA` `Falco` `Trivy` `Vault` `kube-bench` |
-| [VMware to K8s Migration](https://github.com/jsakilesh/vmware-to-k8s-migration) | Battle-tested toolkit for migrating VMware VMs to Kubernetes | `govc` `Terraform` `Helm` `Docker` `GitHub Actions` |
+| [DevOps Homelab](https://github.com/jsakilesh/devops-homelab) | End-to-end homelab: on-prem infra, K8s, GitOps, full observability stack | `Terraform` `Ansible` `Helm` `Flux` `Prometheus` |
+| [K8s Security Hardening](https://github.com/jsakilesh/k8s-security-hardening) | CKS-grade hardening: RBAC, OPA Gatekeeper, Falco, NetworkPolicy, kube-bench | `OPA` `Falco` `Trivy` `Vault` `kube-bench` |
+| [VMware to K8s Migration](https://github.com/jsakilesh/vmware-to-k8s-migration) | Practical toolkit for migrating on-prem workloads to Kubernetes | `govc` `Terraform` `Helm` `Docker` `GitHub Actions` |
 
 </div>
 
 <br/>
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [DevOps Homelab](https://github.com/jsakilesh/devops-homelab) | Production-grade homelab: VMware to K8s, GitOps, Observability | Terraform, Ansible, Helm, Flux, Prometheus |
-| [K8s Security Hardening](https://github.com/jsakilesh/k8s-security-hardening) | CKS-grade hardening: RBAC, OPA Gatekeeper, Falco, NetworkPolicy | OPA, Falco, Trivy, kube-bench, Vault |
-| [VMware to K8s Migration](https://github.com/jsakilesh/vmware-to-k8s-migration) | Toolkit for migrating VMware workloads to Kubernetes | govc, Terraform, Helm, Docker, GitHub Actions |
-
 ---
 
 ## GitHub Activity
-
-
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=jsakilesh&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0D1117" />
@@ -166,10 +145,9 @@ fun_fact: "I have migrated more VMs than most people have had hot meals"
 
 | Metric | Value |
 |--------|-------|
-| Total Contributions (2026) | 193+ |
+| Total Contributions (2026) | 194+ |
 | Public Repositories | 4 |
 | Open Pull Requests | 5 |
-| Years of VMware Experience | 10+ |
 
 </div>
 
