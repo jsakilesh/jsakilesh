@@ -18,6 +18,9 @@
   <a href="https://github.com/jsakilesh">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://dev.to/akilesh_js">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=jsakilesh&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 </div>
 
@@ -55,14 +58,6 @@ currently_building:
 > - **Vault** for dynamic secret injection (no static secrets anywhere)
 > - **Prometheus + Grafana + Loki** for full-stack observability
 > - **OPA Gatekeeper** enforcing CKS-grade security policies cluster-wide
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jsakilesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
 
 ---
 
@@ -167,13 +162,15 @@ Scripting       →  Bash · Python · PowerShell · PowerCLI
 
 </div>
 
+<br/>
+
 ---
 
-## 📈 Activity Graph
+## 📝 Latest Articles & Publications
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jsakilesh&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=FFFFFF" />
-</div>
+<!-- BLOG-POST-LIST:START -->
+- 📖 [**VMware Admin's Guide to Kubernetes: What Actually Transfers (And What Doesn't)**](https://dev.to/akilesh_js/vmware-admins-guide-to-kubernetes-2of5) — *Published on Dev.to*
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -192,11 +189,6 @@ Scripting       →  Bash · Python · PowerShell · PowerCLI
 | Open Pull Requests | 5 |
 
 </div>
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [VMware Admin&#39;s Guide to Kubernetes](https://dev.to/akilesh_js/vmware-admins-guide-to-kubernetes-2of5)<!-- BLOG-POST-LIST:END -->
 
 ---
 
