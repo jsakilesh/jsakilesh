@@ -196,9 +196,7 @@ Scripting       →  Bash · Python · PowerShell · PowerCLI
 ---
 
 ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-*Coming soon — follow me on [Dev.to](https://dev.to/jsakilesh) or [LinkedIn](https://linkedin.com/in/akileshjs) for articles on Kubernetes, GitOps, and DevOps best practices.*
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [VMware Admin&#39;s Guide to Kubernetes](https://dev.to/akilesh_js/vmware-admins-guide-to-kubernetes-2of5)<!-- BLOG-POST-LIST:END -->
 
 ---
 
