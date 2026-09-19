@@ -47,6 +47,25 @@ currently_building:
 
 ---
 
+## 🔥 What I'm Working On Right Now
+
+> Building a **production-grade Kubernetes platform** on bare-metal with:
+> - **Flux v2 GitOps** for continuous reconciliation
+> - **Istio service mesh** with strict mTLS between all workloads
+> - **Vault** for dynamic secret injection (no static secrets anywhere)
+> - **Prometheus + Grafana + Loki** for full-stack observability
+> - **OPA Gatekeeper** enforcing CKS-grade security policies cluster-wide
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jsakilesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+---
+
 ## Certifications
 
 <div align="center">
@@ -70,7 +89,21 @@ currently_building:
 
 ---
 
-## Tech Arsenal
+## 🧠 Core Competencies
+
+```
+Orchestration   →  Kubernetes · Helm · Kustomize · Istio · containerd
+IaC             →  Terraform · Ansible · Pulumi · CrossPlane
+GitOps          →  Flux v2 · ArgoCD · GitHub Actions · GitLab CI
+Observability   →  Prometheus · Grafana · Loki · Alertmanager · Jaeger
+Security        →  OPA Gatekeeper · Falco · Trivy · Vault · Seccomp
+Infra           →  VMware vSphere · AWS · GCP · Azure · Bare-metal K8s
+Scripting       →  Bash · Python · PowerShell · PowerCLI
+```
+
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -134,7 +167,13 @@ currently_building:
 
 </div>
 
-<br/>
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jsakilesh&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=FFFFFF" />
+</div>
 
 ---
 
@@ -149,10 +188,17 @@ currently_building:
 | Metric | Value |
 |--------|-------|
 | Total Contributions (2026) | 194+ |
-| Public Repositories | 4 |
+| Public Repositories | 5 |
 | Open Pull Requests | 5 |
 
 </div>
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+*Coming soon — follow me on [Dev.to](https://dev.to/jsakilesh) or [LinkedIn](https://linkedin.com/in/akileshjs) for articles on Kubernetes, GitOps, and DevOps best practices.*
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
