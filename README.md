@@ -128,6 +128,7 @@ currently_building:
 | [DevOps Homelab](https://github.com/jsakilesh/devops-homelab) | End-to-end homelab: on-prem infra, K8s, GitOps, full observability stack | `Terraform` `Ansible` `Helm` `Flux` `Prometheus` |
 | [K8s Security Hardening](https://github.com/jsakilesh/k8s-security-hardening) | CKS-grade hardening: RBAC, OPA Gatekeeper, Falco, NetworkPolicy, kube-bench | `OPA` `Falco` `Trivy` `Vault` `kube-bench` |
 | [VMware to K8s Migration](https://github.com/jsakilesh/vmware-to-k8s-migration) | Practical toolkit for migrating on-prem workloads to Kubernetes | `govc` `Terraform` `Helm` `Docker` `GitHub Actions` |
+| [VMware PowerCLI Scripts](https://github.com/jsakilesh/vmware-powercli-scripts) | Production-ready PowerCLI scripts: VM inventory, snapshots, host health, vSAN, bulk vMotion | `PowerCLI` `PowerShell` `vSphere` `vSAN` `Automation` |
 
 </div>
 
