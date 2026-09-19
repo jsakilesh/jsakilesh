@@ -1,60 +1,107 @@
+<!-- Header Banner -->
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sakilesh%20J&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20%7C%20Platform%20Engineer&descAlignY=55&descAlign=50&descColor=8B949E" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Sakilesh;Senior+DevOps+%7C+Platform+Engineer;10%2B+Years+VMware+%7C+CKA+%7C+CKAD+%7C+CKS;Infrastructure+as+Code+%7C+GitOps+%7C+SRE" alt="Typing SVG" />
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=10%2B+Years+VMware+%7C+vSphere+Expert+%F0%9F%96%A5%EF%B8%8F;CKA+%7C+CKAD+%7C+CKS+Certified+%E2%9C%85;Infrastructure+as+Code+with+Terraform+%F0%9F%9B%A0%EF%B8%8F;GitOps+%7C+CI%2FCD+%7C+Platform+Engineering+%F0%9F%9A%80;Automate+Everything.+Break+Things+Safely.+%F0%9F%94%A5" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jsakilesh)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsakilesh)
-
+<!-- Social badges -->
+<div align="center">
+  <a href="https://linkedin.com/in/jsakilesh">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jsakilesh">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=jsakilesh&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 </div>
+
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 `whoami`
 
-> Senior DevOps & Platform Engineer with **10+ years of VMware/vSphere** experience and a strong background in Kubernetes (CKA, CKAD, CKS certified). I specialise in building secure, scalable, automated infrastructure — from bare-metal VMware to cloud-native Kubernetes platforms.
+```yaml
+name: Sakilesh J
+role: Senior DevOps / Platform Engineer
+location: India 🇮🇳
+experience: 10+ years
 
-- 🔭 Currently building: **Cloud-Native DevOps Homelab** (K8s + GitOps + Observability)
-- 🌱 Levelling up in: **Service Mesh (Istio)**, **GitOps (Flux v2)**, **SRE practices**
-- 💬 Ask me about: **VMware vSphere**, **Kubernetes hardening (CKS)**, **IaC (Terraform + Ansible)**
-- ⚡ Fun fact: I've migrated more VMs than most people have had hot meals 🍔
+specialisations:
+  - VMware vSphere / ESXi / vCenter / vSAN / NSX
+  - Kubernetes (CKA, CKAD, CKS Certified)
+  - Infrastructure as Code (Terraform + Ansible)
+  - CI/CD Pipelines (GitHub Actions, GitLab CI)
+  - GitOps (Flux v2, ArgoCD)
+  - Observability (Prometheus, Grafana, Loki, Alertmanager)
+  - Security Hardening (OPA Gatekeeper, Trivy, Vault)
+
+currently_building:
+  - Cloud-Native DevOps Homelab
+  - K8s Platform with full GitOps + Observability stack
+
+fun_fact: "I've migrated more VMs than most people have had hot meals 🍔"
+```
 
 ---
 
 ## 🏆 Certifications
 
 <div align="center">
-
-| Certification | Issuer | Status |
-|:---:|:---:|:---:|
-| ![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | CNCF | ✅ Active |
-| ![CKAD](https://img.shields.io/badge/CKAD-Certified_Kubernetes_App_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | CNCF | ✅ Active |
-| ![CKS](https://img.shields.io/badge/CKS-Certified_Kubernetes_Security-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | CNCF | ✅ Active |
-| ![VMware](https://img.shields.io/badge/VMware-vSphere_Expert-607078?style=for-the-badge&logo=vmware&logoColor=white) | VMware | ✅ 10+ Years |
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/>
+        <sub><b>Linux Foundation</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CKAD-Kubernetes_App_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/>
+        <sub><b>Linux Foundation</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CKS-Kubernetes_Security-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br/>
+        <sub><b>Linux Foundation</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/VMware-vSphere_Expert_10%2B_Years-607078?style=for-the-badge&logo=vmware&logoColor=white"/><br/>
+        <sub><b>VMware</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 ### ☁️ Infrastructure & Virtualisation
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![ESXi](https://img.shields.io/badge/ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![vCenter](https://img.shields.io/badge/vCenter-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![vSphere](https://img.shields.io/badge/vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![vSAN](https://img.shields.io/badge/vSAN-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![NSX](https://img.shields.io/badge/NSX-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ### 🐳 Containers & Orchestration
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+![containerd](https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white)
 
 ### 🏗️ Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitOps](https://img.shields.io/badge/Flux_CD-5468FF?style=for-the-badge&logo=flux&logoColor=white)
+![Flux](https://img.shields.io/badge/Flux_CD-5468FF?style=for-the-badge&logo=flux&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 ### 🔁 CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -63,43 +110,69 @@
 ### 📊 Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=white)
 
 ### 🔐 Security
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
-![OPA](https://img.shields.io/badge/OPA_Gatekeeper-7D3C98?style=for-the-badge)
-![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![OPA](https://img.shields.io/badge/OPA_Gatekeeper-7D3C98?style=for-the-badge&logo=openpolicyagent&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![Falco](https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge&logo=falco&logoColor=white)
 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
----
-
-## 📁 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🏠 DevOps Homelab](https://github.com/jsakilesh/devops-homelab) | Full-stack DevOps lab: Terraform + Ansible + K8s + CI/CD + Prometheus | Terraform · Ansible · Helm · GitHub Actions |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsakilesh&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsakilesh&layout=compact&theme=tokyonight&hide_border=true)
+### 🖥️ OS & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 </div>
 
 ---
 
+## 📁 Featured Projects
+
 <div align="center">
+  <a href="https://github.com/jsakilesh/devops-homelab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsakilesh&repo=devops-homelab&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF" />
+  </a>
+</div>
 
-*"Automate everything. Document everything. Break things safely."*
+<br/>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jsakilesh.jsakilesh)
+| 🚀 Project | 📝 Description | 🛠️ Stack |
+|-----------|---------------|---------|
+| [🏠 DevOps Homelab](https://github.com/jsakilesh/devops-homelab) | Production-grade homelab: VMware → K8s → GitOps → Observability | Terraform · Ansible · Helm · Flux · Prometheus |
 
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsakilesh&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsakilesh&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=8B949E&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsakilesh&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0D1117" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jsakilesh/jsakilesh/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&animation=fadeIn"/>
 </div>
