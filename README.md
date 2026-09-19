@@ -149,6 +149,8 @@ fun_fact: "I've migrated more VMs than most people have had hot meals 🍔"
 | 🚀 Project | 📝 Description | 🛠️ Stack |
 |-----------|---------------|---------|
 | [🏠 DevOps Homelab](https://github.com/jsakilesh/devops-homelab) | Production-grade homelab: VMware → K8s → GitOps → Observability | Terraform · Ansible · Helm · Flux · Prometheus |
+| [🔐 K8s Security Hardening](https://github.com/jsakilesh/k8s-security-hardening) | CKS-grade hardening: RBAC, OPA Gatekeeper, Falco, NetworkPolicy, Trivy | OPA · Falco · Trivy · kube-bench · Vault |
+| [🚀 VMware → K8s Migration](https://github.com/jsakilesh/vmware-to-k8s-migration) | Battle-tested toolkit for migrating VMware workloads to Kubernetes | govc · Terraform · Helm · Docker · GitHub Actions |
 
 ---
 
