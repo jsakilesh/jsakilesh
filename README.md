@@ -135,17 +135,13 @@ fun_fact: "I have migrated more VMs than most people have had hot meals"
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/jsakilesh/devops-homelab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsakilesh&repo=devops-homelab&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/jsakilesh/k8s-security-hardening">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsakilesh&repo=k8s-security-hardening&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/jsakilesh/vmware-to-k8s-migration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jsakilesh&repo=vmware-to-k8s-migration&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF" />
-  </a>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [DevOps Homelab](https://github.com/jsakilesh/devops-homelab) | Production-grade homelab: VMware to K8s, GitOps, full Observability stack | `Terraform` `Ansible` `Helm` `Flux` `Prometheus` |
+| [K8s Security Hardening](https://github.com/jsakilesh/k8s-security-hardening) | CKS-grade security: RBAC, OPA Gatekeeper, Falco, NetworkPolicy, kube-bench | `OPA` `Falco` `Trivy` `Vault` `kube-bench` |
+| [VMware to K8s Migration](https://github.com/jsakilesh/vmware-to-k8s-migration) | Battle-tested toolkit for migrating VMware VMs to Kubernetes | `govc` `Terraform` `Helm` `Docker` `GitHub Actions` |
+
 </div>
 
 <br/>
@@ -161,12 +157,26 @@ fun_fact: "I have migrated more VMs than most people have had hot meals"
 ## GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsakilesh&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsakilesh&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=8B949E&bg_color=0D1117"/>
+
+<!-- GitHub Stats - using multiple providers for reliability -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsakilesh&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E&bg_color=0D1117&cache_seconds=1800" onerror="this.style.display='none'"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsakilesh&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&text_color=8B949E&bg_color=0D1117&cache_seconds=1800"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsakilesh&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0D1117" />
+  <img src="https://streak-stats.demolab.com/?user=jsakilesh&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&background=0D1117" />
+</div>
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| Total Contributions (2026) | 193+ |
+| Public Repositories | 4 |
+| Open Pull Requests | 5 |
+| Years of VMware Experience | 10+ |
+
 </div>
 
 ---
