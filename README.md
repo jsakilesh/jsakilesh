@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Sakilesh%20J&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20%7C%20Platform%20Engineer&descAlignY=55&descAlign=50&descColor=8B949E" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Akilesh%20J%20S&fontSize=60&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Senior%20DevOps%20%7C%20Platform%20Engineer&descAlignY=55&descAlign=50&descColor=8B949E" />
 </div>
 
 <!-- Typing animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=10%2B+Years+VMware+%7C+vSphere+Expert+%F0%9F%96%A5%EF%B8%8F;CKA+%7C+CKAD+%7C+CKS+Certified+%E2%9C%85;Infrastructure+as+Code+with+Terraform+%F0%9F%9B%A0%EF%B8%8F;GitOps+%7C+CI%2FCD+%7C+Platform+Engineering+%F0%9F%9A%80;Automate+Everything.+Break+Things+Safely.+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=50&lines=Hi+👋+I'm+Akilesh+J+S;10%2B+Years+VMware+%7C+vSphere+Expert+🖥️;CKA+%7C+CKAD+%7C+CKS+Certified+✅;Infrastructure+as+Code+with+Terraform+🛠️;GitOps+%7C+CI%2FCD+%7C+Platform+Engineering+🚀;Automate+Everything.+Break+Things+Safely.+🔥" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 <!-- Social badges -->
 <div align="center">
-  <a href="https://linkedin.com/in/jsakilesh">
+  <a href="https://linkedin.com/in/akileshjs">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/jsakilesh">
@@ -30,7 +30,7 @@
 ## 🧑‍💻 `whoami`
 
 ```yaml
-name: Sakilesh J
+name: Akilesh J S
 role: Senior DevOps / Platform Engineer
 location: India 🇮🇳
 experience: 10+ years
