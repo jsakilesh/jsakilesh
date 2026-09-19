@@ -23,10 +23,9 @@ jobs:
       - name: Fetch Dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # Update this to your actual Dev.to username when you sign up
-          feed_list: "https://dev.to/feed/jsakilesh"
+          feed_list: "https://dev.to/feed/akilesh_js"
           max_post_count: 5
           readme_path: README.md
           comment_tag_name: BLOG-POST-LIST
-          template: "[$title]($url) — *$date*\n"
+          template: "- [$title]($url)\n"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
