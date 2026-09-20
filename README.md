@@ -168,9 +168,7 @@ Scripting       →  Bash · Python · PowerShell · PowerCLI
 
 ## 📝 Latest Articles & Publications
 
-<!-- BLOG-POST-LIST:START -->
-- 📖 [**VMware Admin's Guide to Kubernetes: What Actually Transfers (And What Doesn't)**](https://dev.to/akilesh_js/vmware-admins-guide-to-kubernetes-2of5) — *Published on Dev.to*
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [VMware Admin&#39;s Guide to Kubernetes](https://dev.to/akilesh_js/vmware-admins-guide-to-kubernetes-2of5)<!-- BLOG-POST-LIST:END -->
 
 ---
 
