@@ -184,7 +184,8 @@ Scripting       →  Bash · Python · PowerShell · PowerCLI
 |--------|-------|
 | Total Contributions (2026) | 194+ |
 | Public Repositories | 5 |
-| Open Pull Requests | 5 |
+| Merged Pull Requests | 4 |
+| Active PRs / Branches | 1 |
 
 </div>
 
